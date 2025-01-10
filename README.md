@@ -18,3 +18,9 @@ What this project aims to demonstrate is my watching habits in general. From thi
 - Whether I watch widely known movies or TV shows, or do I find unpopular ones? (from the number of votes data)
 - Are there keywords that make me click? (From the movie and episode title's word by word seperated data)
 
+  # The Files
+- The raw data : MyNetflixWatchHistory.xlsx
+- Preprocessing process code: Preprocessing.ipynb
+- Movies Analysis and code: Movies Analysis.ipynb
+- TV Shows Analysis and code: TV Shows Analysis.ipynb
+
