@@ -18,6 +18,8 @@ What this project aims to demonstrate is my watching habits in general. From thi
 
   # The Files
 - The raw data : MyNetflixWatchHistory.xlsx
+- The final TV show data: TV_SHOWS_MERGED_with_date.xlsx
+- The final movie data: movies_with_5info_xlsx
 - Preprocessing process code: Preprocessing.ipynb
 - Movies Analysis and code: Movies Analysis.ipynb
 - TV Shows Analysis and code: TV Shows Analysis.ipynb
