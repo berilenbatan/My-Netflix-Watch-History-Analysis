@@ -6,14 +6,12 @@ For this project, I used my own Netflix Watch history that I downloaded from my 
 
 # Project's Aim and Scope
 What this project aims to demonstrate is my watching habits in general. From this dataframe which contains temporal information about both the longevity of the series and my watching date, as well as some fundamental characteristics of the content which are the most relevant information to use while categorizing them, a wide range of conclusions and interpretations were made. 
-- My favorite genre
 - The year(s) I spent watching the most content using runtime information
 - Whether there is a specific month or a season of the year that I watch more Netflix than usual by watch date attribute
 - From which countries I watch most TV shows or movies from
 - What decade's content I like best with the help of release year information
 - Do I have a favorite director or a production company?
 - If I watch TV shows that air for a lot of seasons or if I like shorter series
-- Do I like shorter or longer episodes?
 - Do I like content with high rating or do I give a chance to the badly reviewed ones (from IMDb ratings data) ?
 - Whether I watch widely known movies or TV shows, or do I find unpopular ones? (from the number of votes data)
 - Are there keywords that make me click? (From the movie and episode title's word by word seperated data)
